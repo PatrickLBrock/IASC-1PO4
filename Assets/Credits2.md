@@ -1,13 +1,8 @@
 "Learning From Kids"
-by PorchCat
+by Blear Moon
 
-2016 - Licensed under
-Creative Commons
-Attribution (3.0)
+2020 - Licensed under
+Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
 
 ---
 
-"Alien Spaceship UFO"
-by Daniel Simon 2020 
-
-2020 - Licensed under Creative Commons Attribution (3.0)
