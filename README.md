@@ -4,4 +4,4 @@ Welcome to the website created for my Twine game, created for IASC 1PO4 at Brock
 
 ## Playtest - Game Prototype
 
-Playtest my game prototype here. [here]
+Playtest my game prototype here. [Here](actual URL to navigate)
