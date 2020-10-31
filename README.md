@@ -1,7 +1,7 @@
 # IASC-1PO4 | Patrick Leonard
 
-Welcome to the website created for mt Twine game, created for IASC 1PO4 at Brock University.
+Welcome to the website created for my Twine game, created for IASC 1PO4 at Brock University.
 
-## Playtest
+## Playtest - Game Prototype
 
-Playtest my game here. [here]
+Playtest my game prototype here. [here]
