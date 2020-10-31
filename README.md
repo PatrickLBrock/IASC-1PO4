@@ -4,4 +4,4 @@ Welcome to the website created for my Twine game, created for IASC 1PO4 at Brock
 
 ## Playtest - Game Prototype
 
-Playtest my game prototype here. [Here](actual URL to navigate)
+Playtest my game prototype here. [Here](https://patricklbrock.github.io/IASC-1PO4/builds/Memory%20Loss_Oct.30.html)
