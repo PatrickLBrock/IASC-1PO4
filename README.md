@@ -8,4 +8,4 @@ Playtest my game prototype here. [Here](https://patricklbrock.github.io/IASC-1PO
 
 Access the playtest survey. [Here](https://forms.office.com/Pages/ResponsePage.aspx?id=FRGudvwe8kqlNuKyRDrxoEczevtFw5pAlmJQxn_3dI9UNlRYVlhSRDQ5WFRVMllESEpKUVk3UUxXRS4u)
 
-Play my full game here. [Here](https://patricklbrock.github.io/IASC-1PO4/builds/Memory%20Loss_Oct.30.html)
+Play my full game here. [Here](https://patricklbrock.github.io/IASC-1PO4/builds/Escape.html)
